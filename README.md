@@ -5,7 +5,6 @@ Instructor: 劉儼毅, 伍朝欽
 
 https://webapt.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1121/20009_1SCSC0100930.pdf
 
-------
 ### Mid-term project
 使用YOLOv4進行鐘面時間影像識別 / time image classification with yolov4
 
