@@ -11,4 +11,6 @@ https://webapt.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1121/20009_1SCSC0100930.pdf
 https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 
 ### Final project
-----
+使用YOLOv7進行snooker識別 / snooker classification with yolov7
+
+https://www.kaggle.com/datasets/anamariamelinte/snooker-balls
