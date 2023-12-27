@@ -10,5 +10,5 @@ https://webapt.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1121/20009_1SCSC0100930.pdf
 https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 
 ### Final Project
-基於YOLOv8進行司諾克偵測 / Snooker Detection with YOLOv8 + ByteTrack<br>
+基於YOLOv8進行司諾克偵測 / Snooker Detection with YOLOv8<br>
 https://www.kaggle.com/datasets/ricardocouto/snooker-balls
