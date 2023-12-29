@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 基於YOLOv8實作司諾克球體偵測 / Snooker Balls Detection with YOLOv8<br>
 https://www.kaggle.com/datasets/ricardocouto/snooker-balls
 
-| Date | ID | name |
+| Date | ID | Project name |
 | ---- | :----: | ---- |
 | 0922 | HW0 | python test |
 | 1006 | HW2 | handwritten recognition |
