@@ -5,14 +5,12 @@ Course: 影像處理 / Digital Image Processing and Analysis (1121_20009 in NCUE
 Instructor: 劉儼毅
 
 ### Mid-term Project
-使用YOLOv4進行鐘面時間影像識別 / Time Image Classification with YOLOv4<br>
-[Colab Notebook](https://colab.research.google.com/drive/1xxE2TiuNFGD_JHpJ-PszKZ1yP0uJZp9k) 、
-[Kaggle Dataset](https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification)
+使用YOLOv4進行鐘面時間影像識別 / Time Image Classification with YOLOv4
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxE2TiuNFGD_JHpJ-PszKZ1yP0uJZp9k)
 
 ### Final Project
-基於YOLOv8實作司諾克球體偵測 / Snooker Balls Detection with YOLOv8<br>
-[Kaggle Notebook](https://www.kaggle.com/code/yustinachang/snooker-balls-detection-with-yolov8) 、
-[Kaggle Dataset](https://www.kaggle.com/datasets/ricardocouto/snooker-balls)
+基於YOLOv8實作司諾克球體偵測 / Snooker Balls Detection with YOLOv8
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/yustinachang/snooker-balls-detection-with-yolov8)
 
 ### Course Work
 | Date | Project | Introduction |
