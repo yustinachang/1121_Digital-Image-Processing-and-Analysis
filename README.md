@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 https://www.kaggle.com/datasets/ricardocouto/snooker-balls
 
 ### Course Work
-| Date | ID | Project |
+| Date | Project | Introduction |
 | ---- | :----: | ---- |
 | 0922 | HW0 | Python test |
 | 1006 | HW2 | TensorFlow MNIST |
