@@ -1,17 +1,18 @@
 # 1121_20009_Digital-Image-Processing-and-Analysis
 Course: 影像處理 / Digital Image Processing and Analysis (1121_20009 in NCUE)
+[pdf](https://webapt.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1121/20009_1SCSC0100930.pdf)
 
 Instructor: 劉儼毅
 
-https://webapt.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1121/20009_1SCSC0100930.pdf
-
 ### Mid-term Project
 使用YOLOv4進行鐘面時間影像識別 / Time Image Classification with YOLOv4<br>
-https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
+[Colab Notebook](https://colab.research.google.com/drive/1xxE2TiuNFGD_JHpJ-PszKZ1yP0uJZp9k) 、
+[Kaggle Dataset](https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification)
 
 ### Final Project
 基於YOLOv8實作司諾克球體偵測 / Snooker Balls Detection with YOLOv8<br>
-https://www.kaggle.com/datasets/ricardocouto/snooker-balls
+[Kaggle Notebook](https://www.kaggle.com/code/yustinachang/snooker-balls-detection-with-yolov8) 、
+[Kaggle Dataset](https://www.kaggle.com/datasets/ricardocouto/snooker-balls)
 
 ### Course Work
 | Date | Project | Introduction |
