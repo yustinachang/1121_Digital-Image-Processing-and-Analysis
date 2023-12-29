@@ -14,13 +14,13 @@ https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 https://www.kaggle.com/datasets/ricardocouto/snooker-balls
 
 ### Course Work
-| Date | ID | Project name |
+| Date | ID | Project |
 | ---- | :----: | ---- |
 | 0922 | HW0 | python test |
 | 1006 | HW2 | handwritten recognition |
 | 1020 | HW4 | YOLOv4-tiny darknet |
 | 1027 | HW5 | YOLOv4-tiny custom |
 | 1117 | HW6 | OpenCV face-detection |
-| 1124 | - | LiverCT |
-| 1124 | - | UNet/ResUNet |
-| 1201 | - | YOLOv7 + ByteTrack |
+| 1124 | Practice | LiverCT |
+| 1124 | Practice | UNet/ResUNet |
+| 1201 | Practice | YOLOv7 + ByteTrack |
