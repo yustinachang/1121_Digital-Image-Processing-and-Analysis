@@ -19,8 +19,7 @@ https://www.kaggle.com/datasets/ricardocouto/snooker-balls
 | 1006 | HW2 | handwritten recognition |
 | 1020 | HW4 | YOLOv4-tiny darknet |
 | 1027 | HW5 | YOLOv4-tiny custom |
-| 1117 | HW6 | opencv |
+| 1117 | HW6 | OpenCV face-detection |
 | 1124 | - | LiverCT |
-| 1124 | - | UNet |
-| 1124 | - | python test |
+| 1124 | - | UNet/ResUNet |
 | 1201 | - | YOLOv7 + ByteTrack |
