@@ -12,3 +12,15 @@ https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 ### Final Project
 基於YOLOv8實作司諾克球體偵測 / Snooker Balls Detection with YOLOv8<br>
 https://www.kaggle.com/datasets/ricardocouto/snooker-balls
+
+| Date | ID | name |
+| ---- | ---- | ---- |
+| 0922 | HW0 | python test |
+| 1006 | HW2 | handwritten recognition |
+| 1020 | HW4 | YOLOv4-tiny darknet |
+| 1027 | HW5 | YOLOv4-tiny custom |
+| 1117 | HW6 | opencv |
+| 1124 | - | LiverCT |
+| 1124 | - | UNet |
+| 1124 | - | python test |
+| 1201 | - | YOLOv7 + ByteTrack |
