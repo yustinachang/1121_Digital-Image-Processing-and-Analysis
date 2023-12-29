@@ -1,7 +1,7 @@
 # 1121_20009_Digital-Image-Processing-and-Analysis
 Course: 影像處理 / Digital Image Processing and Analysis (1121_20009 in NCUE)
 
-Instructor: 劉儼毅, 伍朝欽
+Instructor: 劉儼毅
 
 https://webapt.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1121/20009_1SCSC0100930.pdf
 
