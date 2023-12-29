@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/gpiosenka/time-image-datasetclassification
 https://www.kaggle.com/datasets/ricardocouto/snooker-balls
 
 | Date | ID | name |
-| ---- | ---- | ---- |
+| ---- | :----: | ---- |
 | 0922 | HW0 | python test |
 | 1006 | HW2 | handwritten recognition |
 | 1020 | HW4 | YOLOv4-tiny darknet |
