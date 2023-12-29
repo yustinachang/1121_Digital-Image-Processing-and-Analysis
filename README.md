@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/ricardocouto/snooker-balls
 | Date | ID | Project |
 | ---- | :----: | ---- |
 | 0922 | HW0 | Python test |
-| 1006 | HW2 | handwritten recognition |
+| 1006 | HW2 | TensorFlow MNIST |
 | 1020 | HW4 | YOLOv4-tiny darknet |
 | 1027 | HW5 | YOLOv4-tiny custom |
 | 1117 | HW6 | OpenCV face-detection |
