@@ -9,7 +9,7 @@ Instructor: 劉儼毅
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxE2TiuNFGD_JHpJ-PszKZ1yP0uJZp9k)
 
 ### Final Project
-基於YOLOv8實作司諾克球體偵測 / Snooker Balls Detection with YOLOv8
+基於YOLOv8實作司諾克撞球偵測 / Snooker Balls Detection with YOLOv8
 [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/yustinachang/snooker-balls-detection-with-yolov8)
 
 ### Course Work
