@@ -9,6 +9,6 @@ Kaggle是全世界公認最大的資料科學社群，在Kaggle中取得[司諾�
 
 | format | name |
 | :----: | ---- |
-| word | 影像處理期末報告書.pdf |
+| word | 影像處理期末報告書.pdf （心得）|
 | notebook | snooker-balls-detection-with-yolov8.ipynb |
 | zip | snooker_project.zip |
