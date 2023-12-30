@@ -16,7 +16,9 @@ Instructor: 劉儼毅
 | Date | Project | Introduction |
 | ---- | :----: | ---- |
 | 0922 | HW0 | Python test |
+| 0929 | HW1 | teachablemachine |
 | 1006 | HW2 | TensorFlow MNIST |
+| 1013 | HW3 | Self-directed Learning |
 | 1020 | HW4 | YOLOv4-tiny darknet |
 | 1027 | HW5 | YOLOv4-tiny custom |
 | 1117 | HW6 | OpenCV face-detection |
