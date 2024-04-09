@@ -11,3 +11,4 @@ Kaggle是全世界公認最大的資料科學社群，在Kaggle中取得[司諾�
 | notebook | snooker-balls-detection-with-yolov8.ipynb |
 | notebook | sahi-video-for-snooker-project.ipynb |
 | zip | snooker_project.zip |
+| mp4 | sahi_result_video.mp4 |
