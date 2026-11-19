@@ -9,8 +9,9 @@
 
 | 專題 | 內容與入口 |
 | --- | --- |
-| [期中：鐘面時間影像識別](Mid-term_Project) | YOLOv4 訓練 Notebook、設定與報告；[原 Colab](https://colab.research.google.com/drive/1xxE2TiuNFGD_JHpJ-PszKZ1yP0uJZp9k) |
-| [期末：司諾克撞球偵測](Final_Project) | YOLOv8、SAHI 影片推論 Notebook、成果與展示影片；[原 Kaggle](https://www.kaggle.com/code/yustinachang/snooker-balls-detection-with-yolov8) |
+| [期中：鐘面時間影像識別](Mid-term_Project) | YOLOv4 訓練 Notebook、設定與報告 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxE2TiuNFGD_JHpJ-PszKZ1yP0uJZp9k) |
+| [期末：司諾克撞球偵測](Final_Project) | YOLOv8、SAHI 影片推論 Notebook、成果與展示影片 [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)
+](https://www.kaggle.com/code/yustinachang/snooker-balls-detection-with-yolov8) |
 
 ## 課堂練習
 
